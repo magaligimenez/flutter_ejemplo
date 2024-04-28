@@ -52862,7 +52862,7 @@ if(r)q.b.pop()
 return!0},
 $S:57}
 A.yb.prototype={
-V(a){var s="Cafeteria Mickey",r=null,q=t.eE,p=A.ZH(A.a([A.Su(s,A.ho(r,r,B.d3,r,r,r,r,r,r,r,r,100,r,r,B.ec,r,r,!0,r,r,r,r,r,r,r,r)),A.m5(r,10,r),A.Su("Inicie sesi\xf3n para comenzar su pedido",A.ho(r,r,B.cq,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],q),B.cs,B.eT)
+V(a){var s="Cafeteria Mickey",r=null,q=t.eE,p=A.ZH(A.a([A.Su(s,A.ho(r,r,B.d3,r,r,r,r,r,r,r,r,100,r,r,B.ec,r,r,!0,r,r,r,r,r,r,r,r)),A.m5(r,10,r),A.Su("Inicie sesi\xf3n para comenzar",A.ho(r,r,B.cq,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],q),B.cs,B.eT)
 return new A.pt(new A.qG(new A.im(B.wY,A.ZH(A.a([p,new A.oZ(A.ad9(r,r,new A.nE("assets/coffee.jpg",r,r)),600,600,B.u6,r),A.ZH(A.a([A.m5(A.a2z(A.Su("Iniciar sesi\xf3n",A.ho(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),new A.Ov(),A.a2A(r,r,B.d3,r,r,r,r,r,r,r,r,r,new A.bf(0,20,0,20),r,new A.bR(A.Id(30),B.a4),r,r,r,r,r)),r,1/0),A.m5(r,10,r),A.m5(A.a2z(A.Su("Registrarse",A.ho(r,r,B.d3,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),new A.Ow(),A.a2A(r,r,B.wi,r,r,r,r,r,r,r,r,r,new A.bf(0,20,0,20),r,new A.bR(A.Id(30),B.a4),new A.bC(B.d3,1,B.V,-1),r,r,r,r)),r,1/0)],q),B.cs,B.eT)],q),B.cs,B.AI),r),B.j,r),s,!1,r)}}
 A.Ov.prototype={
 $0(){},

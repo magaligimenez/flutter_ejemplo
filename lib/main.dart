@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Cafeteria Mickey',
       home: Scaffold(
-        backgroundColor: Colors.black, // Color de fondo coherente
+        backgroundColor: Colors.black, //color de fondo coherente
         body: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 40.0),
           child: Column(
@@ -24,27 +24,27 @@ class MyApp extends StatelessWidget {
                   Text("Cafeteria Mickey",
                     style: TextStyle(
                       color: Colors.brown,
-                      fontSize: 100, // Reducir el tamaño de la fuente para un aspecto más equilibrado
+                      fontSize: 100, //tamaño de la fuente
                       fontWeight: FontWeight.w900,
                     )),
                   SizedBox(height: 10), // Agregar espacio entre los textos
-                  Text("Inicie sesión para comenzar su pedido",
+                  Text("Inicie sesión para comenzar",
                     style: TextStyle(
-                      fontSize: 20, // Reducir el tamaño de la fuente para un aspecto más equilibrado
+                      fontSize: 20, // tamaño de la fuente
                       color: Colors.grey.shade700,
                     ))
                 ],
               ),
               Image.asset(
                 'assets/coffee.jpg',
-                height: 600, // Especifica la altura deseada de la imagen
-                width: 600, // Especifica el ancho deseado de la imagen
-                fit: BoxFit.contain, // Opcional: ajusta el modo de ajuste de la imagen
+                height: 600, //especifica la altura de la imagen
+                width: 600, //especifica el ancho de la imagen
+                fit: BoxFit.contain, //ajusta el modo de ajuste de la imagen
                 ),
               Column(
                 children: [
                   SizedBox(
-                    width: double.infinity, // Alinear los botones horizontalmente
+                    width: double.infinity, //alinea los botones horizontalmente
                     child: ElevatedButton(
                       onPressed: (){}, 
                       child: Text("Iniciar sesión", style: TextStyle(color: Colors.white),),
